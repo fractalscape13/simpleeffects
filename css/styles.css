@@ -1,0 +1,13 @@
+
+#walrus-showing {
+    display: none;
+  }
+
+  .clickable:hover, .clickable2:hover, .clicktohide:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#hiddentext {
+    display: none;
+}
